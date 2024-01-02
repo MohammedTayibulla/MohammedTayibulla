@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammedTayibulla
-- 👀 I’m interested in Full stack Web Technologies
+- 👀 I’m a Full stack Web Developer
 
 <!---
 MohammedTayibulla/MohammedTayibulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
