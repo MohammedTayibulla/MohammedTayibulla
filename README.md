@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @MohammedTayibulla
-- 👀 I’m a Full stack Web Developer
+# 👋 Hi, I'm **Mohammed Tayibulla**
 
-<!---
-MohammedTayibulla/MohammedTayibulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **Full Stack Developer | Problem Solver | Tech Enthusiast** 🌟  
+With 2+ years of professional experience, I specialize in building high-performance web applications and intuitive user experiences. I’m passionate about delivering robust and scalable solutions using modern technologies.
+
+- 🌐 [Portfolio](https://mohammedtayibulla.github.io/)  
+---
+
+## 🔧 **Tech Stack**
+
+### **Frontend**
+- ⛽️ React, Next.js, React Native  
+- 🎨 HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+### **Backend**
+- 🐍 Python (Django, FastAPI)  
+- 🌐 Node.js, Express.js  
+- 🚓 MongoDB  
+
+### **DevOps & Tools**
+- 🔄 Git
