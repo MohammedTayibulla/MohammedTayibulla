@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Mohammed Tayibulla**
 
 🌟 **Full Stack Developer | Problem Solver | Tech Enthusiast** 🌟  
-With 2+ years of professional experience, I specialize in building high-performance web applications and intuitive user experiences. I’m passionate about delivering robust and scalable solutions using modern technologies.
+With 3+ years of professional experience, I specialize in building high-performance web applications and intuitive user experiences. I’m passionate about delivering robust and scalable solutions using modern technologies.
 
 - 🌐 [Portfolio](https://tayib-jet.vercel.app/)  
 ---
@@ -14,8 +14,8 @@ With 2+ years of professional experience, I specialize in building high-performa
 
 ### **Backend**
 -  Python (Django, FastAPI)  
--  Node.js, Express.js  
--  MongoDB  
+-  Node.js, Express.js , Nest.js
+-  MongoDB  , PostgreSql
 
 ### **DevOps & Tools**
 -  Git
