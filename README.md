@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Mohammed Tayibulla**
+#  Hi, I'm **Mohammed Tayibulla <img src="https://raw.githubusercontent.com/MohammedTayibulla/MohammedTayibulla/main/wave.gif" width="30">**
 
 🌟 **Full Stack Developer | Problem Solver | Tech Enthusiast** 🌟  
 With 3+ years of professional experience, I specialize in building high-performance web applications and intuitive user experiences. I’m passionate about delivering robust and scalable solutions using modern technologies.
