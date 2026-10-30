@@ -34,8 +34,8 @@ With 3+ years of professional experience, I specialize in building high-performa
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedTayibulla&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedTayibulla&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedTayibulla&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Tayib's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedTayibulla&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Tayib's Top Languages" height="180" />
 </p>
 
 ---
